@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Sivakamis
+# Hi there 👋, I'm Sivakami A
 
 ![Profile Banner](https://img.shields.io/badge/Welcome-to-my-GitHub-blue?style=flat-square)
 
 ## 🔭 I’m currently working on
-- Developing [your project name or field, e.g., full-stack web apps].
+- Developing exciting web applications and tools.
 - Exploring AI and Machine Learning projects.
 
 ## 🌱 I’m currently learning
